@@ -1,4 +1,4 @@
-# TOMATO - Food Ordering Website
+# Food Paradise - Food Ordering Website
 
 This repository hosts the source code for TOMATO, a dynamic food ordering website built with the MERN Stack. It offers a user-friendly platform for seamless online food ordering.
 
@@ -123,8 +123,4 @@ The application is deployed on Render.
 ## Contributing
 
 Contributions are always welcome!
-Just raise an issue, and we will discuss it.
-
-## Feedback
-
-If you have any feedback, please reach out to me [here](https://www.linkedin.com/in/muhammad-shan-full-stack-developer/)
+Just raise an issue, and we will discuss it
